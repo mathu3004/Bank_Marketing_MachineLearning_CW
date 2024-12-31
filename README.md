@@ -60,7 +60,6 @@ This project focuses on analyzing a dataset from a bank's marketing campaign to 
    ```bash
    git clone https://github.com/your-username/Bank_Marketing_MachineLearning_CW.git
    ```
-   ```
 3. Open the Google Colab:
    ```bash
    google colab Bank_Marketing_CM2604.ipynb
@@ -81,4 +80,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank%2Bmarketing)
 - Inspiration: Coursework from CM2604 Machine Learning module.
-- Special Gratitude to Module Team.
+- Special Gratitude to CM2604 Module Team.
